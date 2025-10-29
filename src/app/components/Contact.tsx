@@ -130,9 +130,9 @@ export default function Contact() {
 
   return (
     <AnimatedSection className="py-20 text-center scroll-mt-20" id="contact">
-      <h2 className="text-3xl font-bold mb-4">Let's Build Something Great</h2>
+      <h2 className="text-3xl font-bold mb-4">Let&apos;s Build Something Great</h2>
       <p className="text-gray-500 max-w-xl mx-auto mb-12">
-        I'm currently open to new opportunities. Whether you have a question or just want to connect, my inbox is always open.
+        I&apos;m currently open to new opportunities. Whether you have a question or just want to connect, my inbox is always open.
       </p>
 
       {/* ✅ 2. Apply the container variants to the wrapping div */}

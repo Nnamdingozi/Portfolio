@@ -23,7 +23,7 @@ export default function About() {
             Recently, I dove headfirst into the world of AI, successfully building an end-to-end video generation agent that transforms text into dynamic educational content. This project taught me not only about AI integration but also about robust system design, microservice architecture, and persistent debugging.
           </p>
           <p>
-            When I'm not coding, I enjoy [Your Hobby 1, e.g., exploring new hiking trails] and [Your Hobby 2, e.g., reading classic sci-fi novels]. I believe in continuous learning and am always excited to take on the next challenge.
+            When I'm not coding, I enjoy teaching and reading. I believe in continuous learning and am always excited to take on the next challenge.
           </p>
         </div>
       </div>
