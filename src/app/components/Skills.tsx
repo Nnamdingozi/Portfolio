@@ -3,12 +3,13 @@
 import { motion, Variants } from 'framer-motion';
 import { Server, Brush, Database, Code, CircleDollarSign, Shield, Workflow, KeyRound, Type } from 'lucide-react';
 import { AnimatedSection } from './animations/AnimatedSection';
+import { ReactElement } from 'react';
 
 // 1. DATA: Define your skills data in a clean, typed array.
 // This is the single source of truth.
 type Skill = {
   name: string;
-  icon: JSX.Element;
+  icon: ReactElement ;
   category: 'Frontend' | 'Backend' | 'Database & ORMs' | 'Services & Payments';
 };
 
